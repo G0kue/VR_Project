@@ -4,7 +4,7 @@ Motion sickness from the VR in some particpents may mean losing some particpents
 This will be counterd by reading and implementing methods of reducing motion sickness as well as informing particpents about possible motion sickness before testing commences. If they are suggest they are maybe not appropriate for this study.
 
 
-
+AR vs VR
 
 
 
